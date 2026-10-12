@@ -1,16 +1,14 @@
-## Hi there 👋
+Привет! 👋
+Меня зовут Максим, мне 18 лет. Я студент Кемеровского государственного университета (КемГУ) в городе Кемерово.
 
-<!--
-**Daquare/Daquare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Обо мне:
+🎓 Учусь в вузе и активно развиваюсь в сфере IT.
 
-Here are some ideas to get you started:
+🌱 Сейчас старательно изучаю Git и C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 В свободное время люблю играть в видеоигры.
+
+⚡ Открыт для новых проектов, коллабораций и знакомств.
+
+📫 Как со мной связаться:
+📍 Город: Кемерово, Россия 🇷🇺
